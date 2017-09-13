@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Papers We Love</title>
+  <subtitle>A repository of academic computer science research papers and a community who loves reading them.</subtitle>
+  <id>http://papers-we-love.github.io/</id>
+  <link href="http://papers-we-love.github.io/"/>
+  <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
+  <updated>2017-08-31T20:00:00-04:00</updated>
+  <author>
+    <name>Papers We Love</name>
+  </author>
+  <entry>
+    <title>September Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/september-meetups/"/>
+    <id>http://papers-we-love.github.io/2017/news/september-meetups/</id>
+    <published>2017-08-31T20:00:00-04:00</published>
+    <updated>2017-09-13T01:00:32-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for September across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 9/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/242993742/"&gt;Noel Weichbrodt on A History of Erlang&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 9/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/240921627/"&gt;PWL #35: Orleans&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Santa Monica 9/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-LA/events/241748877/"&gt;Daniel Brice - Infinite sets that admit fast exhaustive search&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bangalore 9/9&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-we-love-Bangalore/events/242590993/"&gt;An incremental approach to compiler construction&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 9/13&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/243105613/"&gt;Papers We Love Book Club: The Dawn of Software Engineering&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zürich 9/14&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-we-love-Zurich/events/242544627/"&gt;Natallie Baikevich on Automatic Construction of Inlining Heuristics using ML&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Olivette 9/18&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/242280231/"&gt;Why calculating is better than scheming&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 9/20&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/239936931/"&gt;Harry Brumleve -&amp;gt; A Universal Modular Actor Formalism for AI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Budapest 9/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Budapest/events/242791943/"&gt;Typed Self-Evaluation via Intensional Type Functions, Brown&amp;amp;Palsberg -Érdi Gergő&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 9/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/243307433/"&gt;Simple Fast Algorithms for the Editing Distance between Trees &amp;amp; Related Problems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 9/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/tcnwxmywmbkc/"&gt;Papers We Love Book Club: The Dawn of Software Engineering&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arlington 9/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/241228410/"&gt;Bitcoin: A Peer to Peer Cash System&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 9/28&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/fgbdrmywmblc/"&gt;TBD, but probably an awesome paper :-)&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2017&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Papers We Love - QCon NYC Edition w/ John, Matt, Charity, and Gwen</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/qcon+pwl-2017/"/>
+    <id>http://papers-we-love.github.io/2017/video/qcon+pwl-2017/</id>
+    <published>2017-08-02T20:00:00-04:00</published>
+    <updated>2017-08-02T13:00:06-04:00</updated>
+    <author>
+      <name>L'Carpetron Dookmarriot</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGRqfvsPiRSgnVcjXs7IoEaViEjysIZ1b" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---june-26-2017"&gt;New York - June 26, 2017&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/240218464/"&gt;https://www.meetup.com/papers-we-love/events/240218464/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Papers:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf"&gt;Scuba: Diving into Data at Facebook&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="https://arxiv.org/pdf/1606.03966.pdf"&gt;Making Contextual Decisions with Low Technical Debt&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="https://research.fb.com/wp-content/uploads/2016/11/realtime_data_processing_at_facebook.pdf"&gt;Realtime Data Processing at Facebook&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="http://bit.ly/2vmH1qF"&gt;January 1965 issue of The Computer Journal&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="http://bit.ly/2ueXqt3"&gt;Charity Majors on Scuba: Diving into Data at Facebook&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="http://bit.ly/2f2Ycrl"&gt;John Langford on Making Contextual Decisions with Low Technical Debt&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="http://bit.ly/2w0VBSI"&gt;Gwen Shapira on Realtime Data Processing at Facebook&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="http://bit.ly/2tTMqlJ"&gt;Matt Adereth on the January 1965 issue of The Computer Journal&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="http://bit.ly/2wgtMoM"&gt;Charity Majors on Scuba: Diving into Data at Facebook&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="http://bit.ly/2hicViG"&gt;John Langford on Making Contextual Decisions with Low Technical Debt&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="http://bit.ly/2wgaqju"&gt;Gwen Shapira on Realtime Data Processing at Facebook&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;&lt;a href="http://bit.ly/2vhADRs"&gt;Matt Adereth on the January 1965 issue of The Computer Journal&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bios&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Charity Majors&lt;/em&gt; is a cofounder and engineer at &lt;a href="https://honeycomb.io/"&gt;Honeycomb.io&lt;/a&gt;, a startup that blends the speed of time series with the raw power of rich events to give you interactive, iterative debugging of complex systems. She has worked at companies like Facebook, Parse, and Linden Lab, as a systems engineer and engineering manager, but always seems to end up responsible for the databases too. She loves free speech, free software and a nice peaty single malt.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;John Langford&lt;/em&gt; is a machine learning research scientist, a field which he says "is shifting from an academic discipline to an industrial tool". He is the author of the weblog &lt;a href="http://hunch.net/"&gt;hunch.net&lt;/a&gt; and the principal developer of &lt;a href="https://github.com/JohnLangford/vowpal_wabbit"&gt;Vowpal Wabbit&lt;/a&gt;. John works at Microsoft Research New York, of which he was one of the founding members, and was previously affiliated with Yahoo! Research,Toyota Technological Institute, and IBM's Watson Research Center. He studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor's degree in 1997, and received his Ph.D. in Computer Science from Carnegie Mellon University in 2002. He was the program co-chair for the 2012 International Conference on Machine Learning.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Gwen Shapira&lt;/em&gt; is a product manager at &lt;a href="https://www.confluent.io/"&gt;Confluent&lt;/a&gt;. She has 15 years of experience working with code and customers to build scalable data architectures, integrating relational and big data technologies. Gwen is the author of &lt;a href="http://shop.oreilly.com/product/0636920044123.do"&gt;Kafka - The Definitive Guide&lt;/a&gt; and &lt;a href="http://shop.oreilly.com/product/0636920033196.do"&gt;Hadoop Application Architectures&lt;/a&gt;, and a frequent presenter at industry conferences. Gwen is a PMC member on the Apache Kafka project and committer on Apache Sqoop. When Gwen isn't building data pipelines or thinking up new features, you can find her pedaling on her bike exploring the roads and trails of California, and beyond.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Matt Adereth&lt;/em&gt; is a Managing Director at &lt;a href="https://www.twosigma.com/"&gt;Two Sigma Investments&lt;/a&gt;, where he works on tools, infrastructure and methodologies for quantitative financial research. He previously worked at Microsoft on Office, focusing on data connectivity and visualization features. In his spare time, he designs open-source ergonomic keyboards using Clojure.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fplaylists%2Fpapers-we-love-qcon-nyc-edition-2017%2F&amp;amp;hide_cover=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="298" mozallowfullscreen="true" src="//speakerdeck.com/player/e4b74228d15d4a43bfaaf2cf61a021f1" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="355"&gt;&lt;/iframe&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="298" mozallowfullscreen="true" src="//speakerdeck.com/player/6acadef26b5e4abbaf501f770b8b14a6" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="355"&gt;&lt;/iframe&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="298" mozallowfullscreen="true" src="//speakerdeck.com/player/070e0ab443d448e39deb9f3ccb4f7d82" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="355"&gt;&lt;/iframe&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="298" mozallowfullscreen="true" src="//speakerdeck.com/player/fc6ad8b9bb1b471ebbe3ad1eeadff86b" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="355"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstracts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charity Majors&lt;/strong&gt; on &lt;a href="http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf"&gt;Scuba: Diving into Data at Facebook&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;Facebook takes performance monitoring seriously. Performance issues can impact over one billion users so we track thousands of servers, hundreds of PB of daily network traffic, hundreds of daily code changes, and many other metrics. We require latencies of under a minute from events occuring (a client request on a phone, a bug report filed, a code change checked in) to graphs showing those events on developers’ monitors.&lt;/p&gt;
+
+&lt;p&gt;Scuba is the data management system Facebook uses for most real-time analysis. Scuba is a fast, scalable, distributed, in-memory database built at Facebook. It currently ingests millions of rows (events) per second and expires data at the same rate. Scuba stores data completely in memory on hundreds of servers each with 144 GB RAM. To process each query, Scuba aggregates data from all servers. Scuba processes almost a million queries per day. Scuba is used extensively for interactive, ad hoc, analysis queries that run in under a second over live data. In addition, Scuba is the workhorse behind Facebook’s code regression analysis, bug report monitoring, ads revenue monitoring, and performance debugging.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John Langford&lt;/strong&gt; on &lt;a href="https://arxiv.org/pdf/1606.03966.pdf"&gt;Making Contextual Decisions with Low Technical Debt&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;Applications and systems are constantly faced with decisions that require picking from a set of actions based on contextual information. Reinforcement-based learning algorithms such as contextual bandits can be very effective in these settings, but applying them in practice is fraught with technical debt, and no general system exists that supports them completely. We address this and create the first general system for contextual learning, called the Decision Service. Existing systems often suffer from technical debt that arises from issues like incorrect data collection and weak debuggability, issues we systematically address through our ML methodology and system abstractions. The Decision Service enables all aspects of contextual bandit learning using four system abstractions which connect together in a loop: explore (the decision space), log, learn, and deploy. Notably, our new explore and log abstractions ensure the system produces correct, unbiased data, which our learner uses for online learning and to enable real-time safeguards, all in a fully reproducible manner.&lt;/p&gt;
+
+&lt;p&gt;The Decision Service has a simple user interface and works with a variety of applications: we present two live production deployments for content recommendation that achieved click-through improvements of 25-30%, another with 18% revenue lift in the landing page, and ongoing applications in tech support and machine failure handling. The service makes real-time decisions and learns continuously and scalably, while significantly lowering technical debt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gwen Shapira&lt;/strong&gt; on &lt;a href="https://research.fb.com/wp-content/uploads/2016/11/realtime_data_processing_at_facebook.pdf"&gt;Realtime Data Processing at Facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Realtime data processing powers many use cases at Facebook, including realtime reporting of the aggregated, anonymized voice of Facebook users, analytics for mobile applications, and insights for Facebook page administrators. Many companies have developed their own systems; we have a realtime data processing ecosystem at Facebook that handles hundreds of Gigabytes per second across hundreds of data pipelines.&lt;/p&gt;
+
+&lt;p&gt;Many decisions must be made while designing a realtime stream processing system. In this paper, we identify five important design decisions that affect their ease of use, performance, fault tolerance, scalability, and correctness. We compare the alternative choices for each decision and contrast what we built at Facebook to other published systems.&lt;/p&gt;
+
+&lt;p&gt;Our main decision was targeting seconds of latency, not milliseconds. Seconds is fast enough for all of the use cases we support and it allows us to use a persistent message bus for data transport. This data transport mechanism then paved the way for fault tolerance, scalability, and multiple options for correctness in our stream processing systems Puma, Swift, and Stylus…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt Adereth&lt;/strong&gt; on the &lt;a href="https://academic.oup.com/comjnl/issue/7/4"&gt;January 1965 issue of The Computer Journal&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;This issue contains one of the most important techniques in numerical optimization, the Nelder-Mead simplex method. My qCon talk covers the modern distributed version of this algorithm, but in this talk we’re going to try and understand the historical context by looking at everything else in the journal, from the other papers to the letters to the editor to the advertisements.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt;
+&lt;a href="https://qconnewyork.com"&gt;&lt;img src="/images/qcon.png" alt="QconNY" title="QCon New York" style="width: 150px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;
+  The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; and &lt;a href="https://chartbeat.com"&gt;QCon New York&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Lightning Talk: Sophia Gold on An Intellectual History of Automatic Differentiation</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/sophia-gold-automatic-differentiation/"/>
+    <id>http://papers-we-love.github.io/2017/video/sophia-gold-automatic-differentiation/</id>
+    <published>2017-08-01T20:00:00-04:00</published>
+    <updated>2017-08-02T13:00:06-04:00</updated>
+    <author>
+      <name>Javaris Jamar Javarison-Lamar</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/4KQ8w9PyR8U" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---may-24-2017"&gt;New York - May 24, 2017&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/2uT9yC2"&gt;https://www.meetup.com/papers-we-love/events/239562163/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2hi3Lmn"&gt;Sophia Gold on An Intellectual History of Automatic Differentiation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2vnKGWd"&gt;Sophia Gold on An Intellectual History of Automatic Differentiation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;An Intellectual History of Automatic Differentiation&lt;/strong&gt; traces the research surrounding a collection of techniques for computing derivatives without using either approximation or the manipulation of subscript-filled equations used to terrorize high school students. While its simplicity gives this method the mystery of "deep magic," it has its roots in work on differential equations in the late 19th century; inspired Alonzo Church's discovery of the untyped lambda calculus; influenced the development of functional programming, concurrency, and Unix in the 1970s; and has been recently rediscovered with applications to type theory, modelling stochastic processes, and training recurrent neural networks.&lt;/p&gt;
+
+&lt;p&gt;References&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="https://books.google.com/books/about/Computer_Aided_Manipulation_of_Symbols.html?id=KWYROAAACAAJ"&gt;Computer Aided Manipulation of Symbols&lt;/a&gt;, Fred McBride 1971&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="https://hal.inria.fr/inria-00306565/PDF/rr_iria202.pdf"&gt;Coroutines and Networks of Parallel Processes&lt;/a&gt;, Gilles Kahn &amp;amp; David MacQueen, 1977&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="https://swtch.com/~rsc/thread/squint.pdf"&gt;Squinting at Power Series&lt;/a&gt;, Doug McIlroy, 1989&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="http://www.sciencedirect.com/science/article/pii/S0304397597000650"&gt;Generating Power of Lazy Semantics&lt;/a&gt;, Jerzy Karczmarczuk,1997&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;ved=0ahUKEwjfir7huMfTAhWF2yYKHXcyC5EQFggpMAA&amp;amp;url=http%3A%2F%2Fwww.cs.dartmouth.edu%2F~doug%2Fpearl.ps.gz&amp;amp;usg=AFQjCNEZeoiSvgAZ104ezBkhF8bsJI4Qcw&amp;amp;sig2=DBK7u2GFo8ke05mCDDHpZQ"&gt;Power Series, Power Serious&lt;/a&gt;, Doug McIlroy, 1998&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="http://www2.tcs.ifi.lmu.de/~miranda/public/cocalculus.pdf"&gt;Calculus in Coinductive Form&lt;/a&gt;, Pavlovic &amp;amp; Escardo 1998&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="https://pdfs.semanticscholar.org/4edf/d071cf5012aaa69449c9fe76646955a8d185.pdf"&gt;Functional Differentiation of Computer Programs&lt;/a&gt;, Jerzy Karczmarczuk, 2000&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="http://folk.ntnu.no/haugwarb/Programming/Haskell/haskell_automatic_differentiation_II.pdf"&gt;Adjoint Codes in Functional Framework&lt;/a&gt;, Jerzy Karczmarczuk, 2000&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;ved=0ahUKEwjHq_WDu8fTAhXM1CYKHTvAAXUQFggnMAA&amp;amp;url=http%3A%2F%2Fbcl.hamilton.ie%2F~barak%2Fpapers%2Fifl2005.ps.gz&amp;amp;usg=AFQjCNFF1QCTVcQKQT6omrrFIgxzubIM8Q&amp;amp;sig2=JUzkOpesJgfXdta724k1Lg"&gt;Perturbation Confusion and Referential Transparency: Correct Functional Implementation of Forward-Mode AD&lt;/a&gt;, Pearlmutter &amp;amp; Siskind, 2005&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="http://www.bcl.hamilton.ie/~barak/papers/toplas-reverse.pdf"&gt;Reverse-Mode AD in a Functional Framework: Lambda the Ultimate Backpropagator&lt;/a&gt;, Pearlmutter &amp;amp; Siskind, 2008&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=0ahUKEwi0wfulu8fTAhVKNSYKHdY-Dl4QFggnMAA&amp;amp;url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.471.7213%26rep%3Drep1%26type%3Dpdf&amp;amp;usg=AFQjCNHNQoIGY9yJxuPSCXdjhDOHo3AO8A&amp;amp;sig2=4I5iSYUSgvmkW6UJPomECA"&gt;The Differential Lambda-Calculus&lt;/a&gt;, Ehrhard &amp;amp; Regnier, 2001&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href="https://arxiv.org/abs/1611.03416"&gt;Efficient Implementation of a Higher-Order Language with Built-In AD&lt;/a&gt;, Pearlmutter &amp;amp; Siskind, 2016&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/Sophia-Gold"&gt;Sophia Gold&lt;/a&gt; has lived many lives: after studying to be a studio artist she has worked at a large quantitative asset manager, developed a consultancy designing embedded systems, and performed professionally as a contortionist. These days she spends a lot of time programming in Clojure and Haskell and, despite being impressively undereducated in higher mathematics, primarily focuses on developing new techniques for automatic differentiation and other problems in computer algebra.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Flightning-talk-sophia-gold-on-an-intellectual-history-of-automatic-differentiation%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" mozallowfullscreen="true" src="//speakerdeck.com/player/67d9ed3a509d4b25a687b8fc150163bf" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; and &lt;a href="https://chartbeat.com"&gt;Chartbeat&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Daniel Doubrovkine on Auctions and bidding: A guide for computer scientists</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/daniel-doubrovkine-auctions-and-bidding/"/>
+    <id>http://papers-we-love.github.io/2017/video/daniel-doubrovkine-auctions-and-bidding/</id>
+    <published>2017-08-01T20:00:00-04:00</published>
+    <updated>2017-08-02T13:00:06-04:00</updated>
+    <author>
+      <name>Leoz Maxwell Jilliumz</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/v502KYHa3aE" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---may-24-2017"&gt;New York - May 24, 2017&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/2uT9yC2"&gt;https://www.meetup.com/papers-we-love/events/239562163/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://bit.ly/2wk0l5l"&gt;Daniel Doubrovkine on Auctions and bidding: A guide for computer scientists&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="http://bit.ly/2tTwq2Z"&gt;Daniel Doubrovkine on Auctions and bidding: A guide for computer scientists&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="http://bit.ly/2tYK1dx"&gt;Daniel Doubrovkine on Auctions and bidding: A guide for computer scientists&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is a veritable menagerie of auctions — single dimensional, multi-dimensional, single sided, double sided, first price, second price, English, Dutch, Japanese, sealed bid — and these have been extensively discussed and analyzed in the economics literature. We will survey this literature from a computer science perspective, primarily from the viewpoint of computer scientists who are interested in learning about auction theory, and to provide pointers into the economics literature for those who want a deeper technical understanding. We'll also take a peek into how the paper was used to build a new online auction platform &lt;a href="https://www.artsy.net"&gt;Artsy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://code.dblock.org/"&gt;Daniel Doubrovkine&lt;/a&gt; (aka dB., &lt;a href="https://twitter.com/dblockdotorg"&gt;@dblockdotorg&lt;/a&gt;) is a seasoned entrepreneur and technologist, CTO at Artsy.net in New York, working on bringing the art world online. He is a maintainer of multiple popular open-source projects, including Java Native Access, Ruby Grape, Hashie and the popular Slack Ruby client, bot and server libraries. Daniel graduated from University of Geneva in late 90s and founded and sold Vestris Inc., an early stage technology start-up right after college. He joined Microsoft as Development Lead, was Director at Visible Path, then Architect and Development Manager at Application Security.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fpaperswelove%2Fdaniel-doubrovkine-on-auctions-and-bidding-a-guide-for-computer-scientists%2F&amp;amp;hide_cover=1&amp;amp;mini=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" mozallowfullscreen="true" src="//speakerdeck.com/player/0c2767f32c7b4ba5a0aeb6bf9a98abd0" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; and &lt;a href="https://chartbeat.com"&gt;Chartbeat&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>August Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/august-meetups/"/>
+    <id>http://papers-we-love.github.io/2017/news/august-meetups/</id>
+    <published>2017-07-31T20:00:00-04:00</published>
+    <updated>2017-08-31T19:00:26-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for August across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 8/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/242066767/"&gt;Papers We Love Book Club: The Dawn of Software Engineering&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 8/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/240921517/"&gt;PWL #34: Feral Concurrency Control&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 8/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/241436374/"&gt;An Axiomatic Basis for Computer Programming&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 8/8&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/241799114/"&gt;Brent Spell on Playing Atari with Deep Reinforcement Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 8/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/242441482/"&gt;Papers We Love Book Club: The Dawn of Software Engineering&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;London 8/17&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-London/events/242355199/"&gt;Tomas Petricek with "Where Mathematics Comes From" by G. Lakoff and R. Nunez&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fairfax 8/23&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/240453524/"&gt;A Neural Algorithm of Artistic Style&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 8/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/241365367/"&gt;Scott Andreas on Overlapping Experiment Infrastructure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 8/29&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/241144787/"&gt;Mastering the Game of Go with Deep Neural Networks and Tree Search&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 8/30&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/242440092/"&gt;Papers We Love Book Club: The Dawn of Software Engineering&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 8/30&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/240892572/"&gt;Connected Components in MapReduce and Beyond&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;cambridge  8/31&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/242585331/"&gt;DNA computing (Chelsea Voss)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York  8/31&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/242063907/"&gt;Gershom Bazerman on "Homological Computations for Term Rewriting Systems" &amp;amp; Mini&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2017&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>July Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/news/july-meetups/"/>
+    <id>http://papers-we-love.github.io/2017/news/july-meetups/</id>
+    <published>2017-06-30T20:00:00-04:00</published>
+    <updated>2017-07-31T19:00:24-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for July across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Singapore 7/4&lt;/strong&gt;: &lt;a href="https://facebook.com/1207987272660778"&gt;Papers We Love #028&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 7/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/240967342/"&gt;Papers We Love Book Club: The Dawn of Software Engineering&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 7/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/240572865/"&gt;PWL #33: LIME &amp;amp;&amp;amp; Sqlcache&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 7/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/240583317/"&gt;Personal Dynamic Media&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teresina 7/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Teresina/events/241327211/"&gt;TDBS: a time division beacon scheduling mechanism for ZigBee cluster-tree WSN&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;cambridge  7/11&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/241328233/"&gt;Implementing lazy functional languages on stock hardware (Joe Jevnik)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Budapest 7/13&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Budapest/events/240916381/"&gt;Károly Lőrentey on "Red-black trees in a functional setting" by Chris Okasaki&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;London 7/13&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-London/events/241268026/"&gt;Chris Ford with "Analysis by Compression" by David Meredith&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Olivette 7/17&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/241576945/"&gt;Tackling the Awkward Squad: monadic input/output, concurrency…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York  7/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/241525902/"&gt;Wes Chow on "Off-the-Record Communication, or, Why Not To Use PGP"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amsterdam 7/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-amsterdam/events/239513937/"&gt;Propositions as Types&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arlington 7/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/241161022/"&gt;The Unreasonable Effectiveness of Mathematics in Natural Sciences&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 7/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/240169912/"&gt;"An industrial-strength audio search algorithm"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 7/27&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/241365062/"&gt;Kevin Burke on "Curve25519 and fast public key cryptography"&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2017&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+</feed>
